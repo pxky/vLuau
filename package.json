@@ -1,6 +1,8 @@
 {
-  "name": "vluau",
-  "version": "1.0.1",
+  "name": "@poky/vluau",
+  "version": "0.0.0",
   "description": "Typescript typings for vluau.",
-  "types": "./index.d.ts"
+  "publishConfig": {
+    "access": "public"
+  }
 }
